@@ -34,9 +34,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 ![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanvirAhmmedCodes&show_icons=true&theme=radical)
 
----
+## 🛠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmmedCodes&layout=compact&theme=radical)
+
+## 👀 Visitors
+![Visitor Count](https://profile-counter.glitch.me/TanvirAhmmedCodes/count.svg)
+
 
 ✨ **Fun Fact:** I believe in consistency, creativity & continuous learning!  
